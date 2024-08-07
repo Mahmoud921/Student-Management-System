@@ -1,0 +1,14 @@
+D:\minof\Courses\Csharp Program\Student Management System\Student Management System\bin\Debug\net8.0\Student Management System.exe
+D:\minof\Courses\Csharp Program\Student Management System\Student Management System\bin\Debug\net8.0\Student Management System.deps.json
+D:\minof\Courses\Csharp Program\Student Management System\Student Management System\bin\Debug\net8.0\Student Management System.runtimeconfig.json
+D:\minof\Courses\Csharp Program\Student Management System\Student Management System\bin\Debug\net8.0\Student Management System.dll
+D:\minof\Courses\Csharp Program\Student Management System\Student Management System\bin\Debug\net8.0\Student Management System.pdb
+D:\minof\Courses\Csharp Program\Student Management System\Student Management System\obj\Debug\net8.0\Student Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\minof\Courses\Csharp Program\Student Management System\Student Management System\obj\Debug\net8.0\Student Management System.AssemblyInfoInputs.cache
+D:\minof\Courses\Csharp Program\Student Management System\Student Management System\obj\Debug\net8.0\Student Management System.AssemblyInfo.cs
+D:\minof\Courses\Csharp Program\Student Management System\Student Management System\obj\Debug\net8.0\Student Management System.csproj.CoreCompileInputs.cache
+D:\minof\Courses\Csharp Program\Student Management System\Student Management System\obj\Debug\net8.0\Student Management System.dll
+D:\minof\Courses\Csharp Program\Student Management System\Student Management System\obj\Debug\net8.0\refint\Student Management System.dll
+D:\minof\Courses\Csharp Program\Student Management System\Student Management System\obj\Debug\net8.0\Student Management System.pdb
+D:\minof\Courses\Csharp Program\Student Management System\Student Management System\obj\Debug\net8.0\Student Management System.genruntimeconfig.cache
+D:\minof\Courses\Csharp Program\Student Management System\Student Management System\obj\Debug\net8.0\ref\Student Management System.dll
