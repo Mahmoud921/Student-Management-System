@@ -1,15 +1,16 @@
+# Student Management System
 
-### Explanation of Each Section
+## Overview
 
-1. **Overview**: A brief introduction to what the project is about.
-2. **Features**: Lists the main functionalities of the application.
-3. **Requirements**: Specifies any prerequisites needed to run the project.
-4. **Getting Started**: Instructions on how to clone the repository and run the application.
-5. **Using the Application**: Guides the user on how to interact with the application.
-6. **Example Usage**: Provides a sample interaction with the application.
-7. **Code Structure**: Describes the main files and their purposes.
-8. **Contributing**: Instructions on how to contribute to the project.
-9. **License**: Specifies the licensing information.
-10. **Contact**: Provides contact information for questions or feedback.
+The Student Management System is a console-based application written in C#. It allows users to manage student records and courses. Users can add, update, and remove students, as well as add, update, and remove courses for each student.
 
-Feel free to customize this README file to better suit your project's specifics.
+## Features
+
+- Add new students
+- Update existing student information
+- Remove students
+- Add courses to a student
+- Update course information for a student
+- Remove courses from a student
+- List all students and their courses
+
