@@ -85,17 +85,7 @@ internal class Program
                 default:
                     Console.WriteLine("Please Try Again 🥲");
                     break;
-
-
             }
         }
-       
-
-
-
-        
-        
-
-
     }
 }
